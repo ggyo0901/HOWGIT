@@ -1,17 +1,6 @@
 # GIT
-Test1
-로 하나의 프로그램을 같이 제작할 수 있게 만들어 줌
-    https://github.com
-    
-터미널 
-    경로 이동 할 수 있는 방법
-    cd 하위 폴더ㅓ
-        (하위폴더 이동)
-    cd.. 상위 폴더로나가기
 
-Git 에러 해결
-    Author identity unknown
-    </p>
+
     <ol>
         <li>git init
             프로젝트 내에 로컬(개인서버) 저장소 생성
